@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+node_modules
+
+=======
+.env
+node_modules
+<<<<<<< HEAD
+build
+=======
+>>>>>>> refs/remotes/origin/dev
+>>>>>>> 210f3ab95b8be0b0138a3daf839331f9445588e5

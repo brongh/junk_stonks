@@ -1,0 +1,46 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+djangorestframework = "==3.12.2"
+djangorestframework-simplejwt = "==4.6.0"
+psycopg2 = "==2.8.6"
+django-cors-headers = "==3.7.0"
+django-heroku = "==0.3.1"
+python-dotenv = "==0.15.0"
+dj-database-url = "==0.5.0"
+virtualenv = "*"
+appnope = "==0.1.2"
+asgiref = "==3.3.1"
+backcall = "==0.2.0"
+decorator = "==4.4.2"
+django-filter = "==2.4.0"
+djangorestframework-jwt = "==1.11.0"
+ipython = "==7.19.0"
+jedi = "==0.18.0"
+parso = "==0.8.1"
+pexpect = "==4.8.0"
+pickleshare = "==0.7.5"
+prompt-toolkit = "==3.0.14"
+ptyprocess = "==0.7.0"
+pytz = "==2020.5"
+sqlparse = "==0.4.1"
+traitlets = "==5.0.5"
+wcwidth = "==0.2.5"
+whitenoise = "==5.2.0"
+ipython_genutils = "==0.2.0"
+Pygments = "==2.7.4"
+PyJWT = "==1.7.1"
+django = "*"
+gunicorn = "*"
+pipenv = "*"
+psycopg2-binary = "*"
+virtualenv-clone = "*"
+certifi = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
